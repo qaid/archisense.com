@@ -6,7 +6,7 @@ README.md
 
 From roughly 2003 until 2013 I ran a freelance graphic design company in New York City: Archisense + APV. Later, I reduced the name down to Archisense Design. My office was wherever I lived in various apartments in Brooklyn, with a staff of 1. Occasionally I worked with contracted developers and visual artists.
 
-The website I built to exposé my work at [Archisense.com][1], was based on Wordpress, with a customized version of the [Eunoia][2] theme built by [Kriesi][3].
+The website I built to exposé my work at [Archisense.com][1], was based on Wordpress, with a customized version of the [Striking][2] theme built by [KaptinLin][3].
 
 In 2013 I decided to re-brand my design and development work under my own name and to sunset the business of Archisense. A bitter sweet decision, it was nonetheless strategic, and resulted in an opportunity to develop a new website using whatever approach I fancied at the time. For me, it was to move towards a static site build using an efficient framework. The results are at [QaidJacobs.com][4].
 
@@ -19,6 +19,6 @@ Archisense.com will not be updated again (RIP!), so it didn't make sense to leav
 So this small project is the one-page HTML site that replaces the Wordpress install with a simple note indicating the fate of Archisense and where to go now.
 
 [1]:http://archisense.com "Archisense.com website"
-[2]:http://themeforest.net/item/eunoia-responsive-portfolio/2792441?ref=Kriesi "Eunoia Wordpress theme"
-[3]:http://www.kriesi.at "Kriesi themes"
+[2]:http://themeforest.net/item/striking-multiflex-ecommerce-responsive-wp-theme/128763 "Striking Wordpress theme"
+[3]:http://themeforest.net/user/kaptinlin "KaptinLin themes"
 [4]:http://qaidjacobs.com "Qa'id Jacobs portfolio website"
