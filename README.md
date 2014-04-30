@@ -18,6 +18,13 @@ Archisense.com will not be updated again (RIP!), so it didn't make sense to leav
 
 So this small project is the one-page HTML site that replaces the Wordpress install with a simple note indicating the fate of Archisense and where to go now.
 
+## Technology used
+- HTML
+- CSS
+- Sublime Text 3 text editor App
+- ImageOptim image optimization App
+- Transmit FTP App
+
 [1]:http://archisense.com "Archisense.com website"
 [2]:http://themeforest.net/item/striking-multiflex-ecommerce-responsive-wp-theme/128763 "Striking Wordpress theme"
 [3]:http://themeforest.net/user/kaptinlin "KaptinLin themes"
