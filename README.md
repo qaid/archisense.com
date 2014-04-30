@@ -21,6 +21,7 @@ So this small project is the one-page HTML site that replaces the Wordpress inst
 ## Technology used
 - HTML
 - CSS
+- [HTML5 Boilerplate][5]
 - Sublime Text 3 text editor App
 - ImageOptim image optimization App
 - Transmit FTP App
@@ -29,3 +30,4 @@ So this small project is the one-page HTML site that replaces the Wordpress inst
 [2]:http://themeforest.net/item/striking-multiflex-ecommerce-responsive-wp-theme/128763 "Striking Wordpress theme"
 [3]:http://themeforest.net/user/kaptinlin "KaptinLin themes"
 [4]:http://qaidjacobs.com "Qa'id Jacobs portfolio website"
+[5]:http://html5boilerplate.com/ "HTML5 Boilerplate website"
