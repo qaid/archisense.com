@@ -87,34 +87,6 @@ textarea {
     padding: 0.2em 0;
 }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-.content {
-    min-height: 800px;
-    background-image: url('../img/archisense.com-frontpage.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.message {
-    position: relative;
-    top: 10em;
-    width: 300px;
-    margin: 0 auto;
-    border: 1px solid black;
-    padding: 2em;
-    border-radius: 3px;
-    background-color: white;
-}
-
-.message h3 {color: SaddleBrown;}
-
-.shadow {
-  -moz-box-shadow:    0px 3px 5px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5);
-  box-shadow:         0px 3px 5px rgba(0, 0, 0, 0.5);
-}
 
 /* ==========================================================================
    Helper classes

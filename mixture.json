@@ -1,0 +1,33 @@
+{
+  "convertHtml": {
+    "relativePaths": true
+  },
+  "customRubyPath": null,
+  "debug": true,
+  "domain": null,
+  "followLeader": false,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "assets"
+  ],
+  "preprocessorScriptOutput": null,
+  "preprocessorStyleOutput": "assets/css",
+  "projectDescription": "The one-page HTML site that replaces the Wordpress install",
+  "projectName": "Archisense.com",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": false,
+  "sass": {
+    "outputStyle": "nested",
+    "sourceMap": true,
+    "lineNumbers": true,
+    "useLibSass": true
+  }
+}
