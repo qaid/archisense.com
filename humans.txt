@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Qaid Jacobs> -- <Developer> -- <@qaidj>
 
 # THANKS
 
